@@ -3,7 +3,7 @@ beautifulsoup4==4.6.3
 certifi==2018.10.15
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.3.1
+cryptography==3.2
 idna==2.7
 lxml==4.2.5
 mkl-fft==1.0.6
